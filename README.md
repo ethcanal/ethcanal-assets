@@ -18,10 +18,6 @@ Share SVG or EPS files with designers for ease of editing and customization.
 
 Use PDF or PNG formats for general sharing due to their broad compatibility.
 
-## Adjusting File Sizes
-
-Modify the dimensions of PNG or JPEG images using [this website](http://resizeimage.net/) for specific size requirements.
-
 # ETH Canal Brand Assets - Font and Colors
 
 ## Fonts
